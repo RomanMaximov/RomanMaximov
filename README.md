@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RomanMaximov.
-- 👀 I’m interested in C/C++ programming.
+- 👀 Java developer.
 
 <!---
 RomanMaximov/RomanMaximov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
