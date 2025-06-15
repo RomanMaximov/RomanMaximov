@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RomanMaximov.
-- 👀 Java developer.
+- 👀 C, Java developer.
 
 <!---
 RomanMaximov/RomanMaximov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
